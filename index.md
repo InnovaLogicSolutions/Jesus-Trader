@@ -1,4 +1,4 @@
-# Estrategia de Trading J de Jesús Mora
+# Estrategia de Trading J de Jesús Mora.
 
 La **Estrategia J** es un método de trading diseñado y perfeccionado por **Jesús Mora**, un experto con años de experiencia en los mercados financieros. Este enfoque práctico y probado busca ayudar a los traders a operar con éxito en diversos entornos de mercado y alcanzar la libertad financiera.
 
