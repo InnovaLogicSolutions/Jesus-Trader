@@ -1,54 +1,60 @@
-<header>
+# Estrategia de Trading J de Jesús Mora
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+La **Estrategia J** es un método de trading diseñado y perfeccionado por **Jesús Mora**, un experto con años de experiencia en los mercados financieros. Este enfoque práctico y probado busca ayudar a los traders a operar con éxito en diversos entornos de mercado y alcanzar la libertad financiera.
 
-# GitHub Pages
+## Objetivos de la Estrategia J
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+- **Rentabilidad Comprobada**: La estrategia ha demostrado ser efectiva en diferentes condiciones de mercado.
+- **Accesibilidad**: Diseñada para ser comprendida y aplicada por traders de todos los niveles, desde principiantes hasta avanzados.
+- **Valor Inigualable**: Ofrece formación de alta calidad a un costo accesible.
 
-</header>
+## Contenido del Curso Estrategia J
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+El curso incluye:
 
-## Step 1: Enable GitHub Pages
+- **Lecciones Detalladas**: Explicaciones claras sobre cada aspecto de la Estrategia J.
+- **Ejemplos Prácticos**: Casos reales que muestran cómo aplicar la estrategia de manera efectiva.
+- **Indicadores Exclusivos**: Herramientas personalizadas como el Indicador Nube, Indicador TimeZones, Indicador Risk Reward y el Indicador EMA de colores, compatibles con plataformas como NinjaTrader y TradingView.  
+- **Herramientas Adicionales**: Incluye una bitácora de trading en formato Excel para llevar un registro claro del progreso.  
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+## Beneficios del Curso
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+- **Aprendizaje de un Experto**: Jesús Mora comparte sus estrategias personales y su enfoque único en los mercados.
+- **Escalabilidad**: La Estrategia J se adapta al estilo y confianza del trader a medida que este crece en experiencia.
+- **Resultados Probados**: Metodología diseñada para maximizar la rentabilidad con el menor riesgo posible.
+- **Acceso Exclusivo**: Herramientas e indicadores personalizados para diversas plataformas de trading.
 
-### :keyboard: Activity: Enable GitHub Pages
+## Promoción Especial Hasta el 28 de Febrero
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+**50% de Descuento en la Mentoría Grupal y Suscripciones de Sala J (Trading en Vivo por Discord)**
 
-<footer>
+**Beneficios con la suscripción con descuento:**
+✅ Acceso a **dos salas J**, una de premercado y otra de sesión americana.  
+✅ Nueva sala de premercado donde un **alumno top operará en vivo** Oro y MNQ de **5:00 am a 9:00 am NY**.  
+✅ Sala en sesión americana directamente con **Jesús Mora** de **9:00 am NY en adelante**, operando en vivo Nasdaq E-mini.  
+✅ Los alumnos con suscripción a **Sala J** también tendrán acceso a la **mentoría grupal de fin de mes**.  
+✅ **El 50% de descuento se mantiene mientras la suscripción siga activa**.  
+✅ **Mentoría grupal con 50% de descuento** para acceder como alumno oficial de la Estrategia J y obtener una suscripción preferencial en la Sala J.  
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+**Para acceder al descuento:**  
+- Comenta la publicación en redes sociales.  
+- Comparte la publicación.  
+- Escribe a través del **link de WhatsApp** en la biografía de Jesús Mora.  
+
+## Fechas de Cursos Presenciales
+
+Actualmente, no se dispone de información específica sobre las fechas de los cursos presenciales de Jesús Mora. Se recomienda visitar su canal oficial de YouTube y redes sociales para obtener actualizaciones y anuncios sobre próximos eventos y cursos.
+
+## Sala J
+
+La **Sala J** es un espacio donde los traders pueden interactuar, compartir experiencias y aprender conjuntamente. Para obtener más detalles sobre la Sala J, incluyendo cómo unirse y participar, es aconsejable consultar los canales oficiales de comunicación de Jesús Mora.
+
+## Recursos Adicionales
+
+Para complementar el aprendizaje, se recomienda visitar el canal oficial de YouTube de Jesús Mora, donde se comparten operaciones diarias y contenido educativo relacionado con la Estrategia J.
+
+[Canal de YouTube de Estrategia J](https://www.youtube.com/@ESTRATEGIAJTRADING)
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+*Nota: La información proporcionada está basada en los recursos disponibles hasta la fecha y puede estar sujeta a cambios. Se aconseja verificar las fuentes oficiales para obtener la información más actualizada.*
